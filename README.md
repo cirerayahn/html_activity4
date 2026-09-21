@@ -8,28 +8,28 @@
 <body>
 
 <ul>
-  <li>CIRERA</li>
-  <li>YAHNI
+  <li>LASTNAME: CIRERA</li>
+  <li>firstname: Yahni
     <ol>
-      <li>Lee</li>
-      <li>Nino
+      <li>Mother's First Name: Lee</li>
+      <li>Father's First Name: Nino
         <ul>
-          <li>Cirera</li>
-          <li>blue</li>
-          <li>calm music, phonk music, r&amp;b music</li>
-          <li>Hobert</li>
-          <li>Web Developer</li>
+          <li>MIDDLE INITIAL: Cirera</li>
+          <li>fav color: blue</li>
+          <li>FAV MUSIC: calm music, phonk music, r&amp;b music</li>
+          <li>LASTNAME OF YOUR FAV ARTIST: Hobert</li>
+          <li>dream profession: Web Developer</li>
         </ul>
       </li>
-      <li>dogs and cats
+      <li>fav pet: dogs and cats
         <ol>
-          <li>mobile legends, subnautica, minecraft</li>
-          <li>Dune part 1 and part 2</li>
+          <li>FAV GAME: mobile legends, subnautica, minecraft</li>
+          <li>Fav Movie: Dune part 1 and part 2</li>
         </ol>
       </li>
     </ol>
   </li>
-  <li>Roman Catholic</li>
+  <li>Religion: Roman Catholic</li>
 </ul>
 
 <hr>
@@ -37,3 +37,4 @@
 
 </body>
 </html>
+
